@@ -1,11 +1,11 @@
 Informe Meteorológico Detallado
 ==============================
-Temperatura Outdoor: 43.2 ºF
+Temperatura Outdoor: 43.3 ºF
 Humedad Outdoor: 99.0 %
-Precipitacion Tasa: 0.05 in/hr
-Precipitacion Diaria: 0.34 in
+Precipitacion Tasa: 0.12 in/hr
+Precipitacion Diaria: 0.35 in
 Velocidad Viento: 0.0 mph
 Racha Viento: 0.0 mph
-Direccion Viento: 186.0 º
+Direccion Viento: 195.0 º
 Presion Relativa: 30.18 inHg
 Uvi: 0.0 
