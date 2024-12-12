@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Estación meteorológica automática situada a 115 msnm. Datos emitidos por la estación meteorológica automática Sainlogic WS3500 situada en la localidad de Riotuerto (115 msnm), en Cantabria (España), durante las últimas 24 horas (UTC+1).
+Estación meteorológica automática situada a 115 msnm. Datos emitidos por la estación meteorológica automática Sainlogic WS3500 situada en la localidad de Riotuerto, en Cantabria (España), durante las últimas 24 horas (UTC+1).
 
 ### Ubicación
 
