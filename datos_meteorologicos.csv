@@ -1,5 +1,4 @@
 Fecha,Temperatura Exterior (°C),Humedad Exterior (%),Sensación Térmica (°C),Punto de Rocío (°C),Velocidad del Viento (km/h),Ráfagas de Viento (km/h),Dirección del Viento (°),Presión Relativa (hPa),Presión Absoluta (hPa),Tasa de Precipitación (mm/h),Precipitación Diaria (mm),Radiación Solar (W/m²),Índice UV
-2024-12-11 14:00:00,7.72,88.0,7.72,5.83,1.29,1.77,257.0,1018.96,1007.79,0.0,2.29,115.7,1.0
 2024-12-11 14:05:00,7.83,88.0,7.83,5.94,1.45,3.54,272.0,1018.96,1007.79,0.0,2.29,114.5,1.0
 2024-12-11 14:10:00,7.78,87.0,7.78,5.83,1.13,3.54,241.0,1018.96,1007.79,0.0,2.29,104.1,1.0
 2024-12-11 14:15:00,7.78,87.0,7.78,5.72,0.48,1.77,249.0,1018.63,1007.79,0.0,2.29,115.4,1.0
