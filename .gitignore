@@ -1,0 +1,8 @@
+# Ignorar copias de seguridad del README
+README.md~
+
+# Recomendación: Ignorar todos los archivos de respaldo terminados en ~
+*~
+
+# Ignorar archivos temporales de LibreOffice (ya que usas Calc)
+.~lock.*
