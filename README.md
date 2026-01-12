@@ -70,7 +70,7 @@ Visualizaciones generadas a partir de los datos anuales. A continuación se mues
 
 | Rachas máximas | Escala de Beaufort |
 | :---: | :---: |
-| ![Rachas máximas](2025/img/maximum_wind_speed_2025.png) | ![Escala de Beaufort](2025/img/wind:distribution_beaufort_scale.png) |
+| ![Rachas máximas](2025/img/maximum_wind_speed_2025.png) | ![Escala de Beaufort](2025/img/wind_distribution_beaufort_scale_2025.png) |
 
 ---
 
