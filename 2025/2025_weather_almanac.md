@@ -6,8 +6,6 @@ El año 2025 se caracterizó por un comportamiento **hiperhúmedo y térmicament
 
 Desde el punto de vista hidrológico, fue un año excepcional con más de **1700 mm** acumulados, donde la lluvia estuvo presente en casi el 60% de los días del año.
 
-> **Estado de los datos:** El registro está completo para los 365 días del año. No se han detectado brechas de información técnica.
-
 ---
 
 ## 🌡️ Análisis térmico
@@ -102,11 +100,11 @@ A continuación se presentan las visualizaciones generadas a partir del registro
 
 | Rachas máximas diarias | Frecuencia (Escala Beaufort) |
 | :---: | :---: |
-| ![Rachas máximas](img/maximum_wind_speed_2025.png) | ![Escala de Beaufort](img/wind:distribution_beaufort_scale.png) |
+| ![Rachas máximas](img/maximum_wind_speed_2025.png) | ![Escala de Beaufort](img/wind_distribution_beaufort_scale.png) |
 
 > **💡 Análisis:**
 > * **Canalización orográfica:** La rosa de los vientos y el radar muestran direcciones predominantes muy marcadas, evidencia de cómo el valle del Covadal "guía" el flujo de aire.
 > * **Intensidad:** El gráfico de rachas máximas corrobora el evento extremo de enero (pico superior a 80 km/h). La gráfica de Beaufort indica que, si bien predominan las calmas y ventolinas (sectores grandes), existe un porcentaje relevante de días con vientos que superan la fuerza 4-5, asociados al paso de frentes atlánticos.
 
 
-> *Nota: Los datos proceden de la estación meteorológica automática Sainlogic WS3500 con datalogger Ecowitt
+> *Nota: Los datos proceden de la estación meteorológica automática Sainlogic WS3500 emitiendo a través de una puerta de enlace Ecowitt GW1200.
