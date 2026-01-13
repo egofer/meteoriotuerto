@@ -100,7 +100,7 @@ A continuación se presentan las visualizaciones generadas a partir del registro
 
 | Rachas máximas diarias | Frecuencia (Escala Beaufort) |
 | :---: | :---: |
-| ![Rachas máximas](img/maximum_wind_speed_2025.png) | ![Escala de Beaufort](img/wind_distribution_beaufort_scale.png) |
+| ![Rachas máximas](img/maximum_wind_speed_2025.png) | ![Escala de Beaufort](img/wind_distribution_beaufort_scale_2025.png) |
 
 > **💡 Análisis:**
 > * **Canalización orográfica:** La rosa de los vientos y el radar muestran direcciones predominantes muy marcadas, evidencia de cómo el valle del Covadal "guía" el flujo de aire.
