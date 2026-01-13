@@ -27,7 +27,7 @@ Se registraron **15 días** con temperaturas superiores a 30 ºC, concentrados p
 
 ## ☔ Análisis pluviométrico
 
-El dato más relevante de 2025 es la pluviometría: **1.706,9 mm** acumulados. Esta cifra sitúa al año muy por encima de la media nacional y refuerza el carácter lluvioso de la zona de trasmiera.
+El dato más relevante de 2025 es la pluviometría: **1.706,9 mm** acumulados. Esta cifra sitúa al año muy por encima de la media nacional y refuerza el carácter lluvioso de esta zona de Trasmiera.
 
 * **Acumulado total:** 1706,9 mm
 * **Días con lluvia apreciable (≥0,2 mm):** 218 días. Este datos de persistencia hace que no solo destaque no solo la cantidad, sino la frecuencia ( **6 de cada 10 días** el suelo recibió agua.)
@@ -45,7 +45,7 @@ El dato más relevante de 2025 es la pluviometría: **1.706,9 mm** acumulados. E
 
 La orografía del valle del Covadal protegió la estación de los vientos medios (solo 2,7 km/h de promedio anual), pero canalizó las borrascas invernales con fuerza.
 
-* **El gran vendaval de enero:** El **26 de enero** se registró la racha máxima absoluta de **86,4 km/h**. Este evento estuvo asociado a una profunda borrasca que afectó a toda la cornisa cantábrica.
+* **El gran vendaval de enero:** El **26 de enero** se registró la racha máxima absoluta de **86,4 km/h**. Este evento estuvo asociado a una profunda borrasca que afectó a toda la cornisa cantábrica (borrasca Herminia).
 * **Vientos persistentes:** Durante el año hubo 48 días con rachas superiores a 40 km/h, concentrados principalmente en los meses invernales y en los episodios de viento sur.
 
 ---
@@ -106,5 +106,37 @@ A continuación se presentan las visualizaciones generadas a partir del registro
 > * **Canalización orográfica:** La rosa de los vientos y el radar muestran direcciones predominantes muy marcadas, evidencia de cómo el valle del Covadal "guía" el flujo de aire.
 > * **Intensidad:** El gráfico de rachas máximas corrobora el evento extremo de enero (pico superior a 80 km/h). La gráfica de Beaufort indica que, si bien predominan las calmas y ventolinas (sectores grandes), existe un porcentaje relevante de días con vientos que superan la fuerza 4-5, asociados al paso de frentes atlánticos.
 
+---
+
+## 📈 Ficha estadística anual
+
+Resumen detallado de valores extremos y promedios registrados durante 2025.
+
+| Categoría | Parámetro | Valor | Fecha / Notas |
+| :--- | :--- | :--- | :--- |
+| **🌡️ Temperaturas** | Media anual | **14,7 ºC** | |
+| | Máxima absoluta | **40,2 ºC** | 15 de agosto |
+| | Mínima absoluta | **-2,2 ºC** | 14 de enero |
+| | Media de las máximas | 20,5 ºC | |
+| | Media de las mínimas | 9,5 ºC | |
+| | Máxima más baja (día frío) | 8,5 ºC | 15 de marzo |
+| | Mínima más alta (noche cálida) | 19,4 ºC | 14 de agosto |
+| | Mayor oscilación térmica | 23,6 ºC | 6 de septiembre |
+| **❄️ Días de Tª** | Heladas (Mín ≤0 ºC) | 10 días | |
+| | Calor (>30 ºC) | 15 días | |
+| | Calor intenso (>35 ºC) | 5 días | |
+| | Calor extremo (>40 ºC) | 1 día | |
+| **☔ Precipitaciones** | **Acumulado total** | **1706,9 mm** | |
+| | Días de lluvia (≥0,2 mm) | 218 días | |
+| | Días de lluvia (≥1 mm) | 158 días | |
+| | Días de lluvia (≥10 mm) | 53 días | |
+| | Días de lluvia (≥30 mm) | 9 días | |
+| | Máxima diaria | 67,8 mm | 24 de noviembre |
+| | Mes más lluvioso | Noviembre | 286,4 mm |
+| | Mes más seco | Octubre | 77,2 mm |
+| **💨 Viento** | Velocidad media | 2,7 km/h | |
+| | Racha máxima | **86,4 km/h** | 26 de enero (B. Hermigia) |
+| | Días con rachas >40 km/h | 48 días | |
+| **☀️ Otros** | Radiación solar máx. | 1040,2 W/m² | 5 de junio (UVI 10) |
 
 > *Nota: Los datos proceden de la estación meteorológica automática Sainlogic WS3500 emitiendo a través de una puerta de enlace Ecowitt GW1200.
