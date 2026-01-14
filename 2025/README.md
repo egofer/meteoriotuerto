@@ -1,11 +1,11 @@
 # 📅 Almanaque meteorológico 2025
 
-**Barrio de Arriba, Riotuerto (Cantabria)**
+**Barrio de Arriba, Riotuerto (Cantabria, España)**
 
 
 ## 📝 Descripción sinóptica
 
-**Carácter general: Muy húmedo y cálido.**
+**Carácter general: muy húmedo y cálido.**
 
 El año 2025 en la estación de Barrio de Arriba (Riotuerto) se define climáticamente por una marcada **anomalía pluviométrica positiva** y un comportamiento térmico suave, interrumpido por episodios extremos de corta duración. La circulación atmosférica estuvo dominada por el paso frecuente de frentes atlánticos, intercalados con incursiones de aire subtropical y eventos de viento sur (efecto Foehn) característicos del valle del Miera/Covadal.
 
@@ -145,4 +145,4 @@ Resumen detallado de valores extremos y promedios registrados durante 2025.
 | | Días con rachas >40 km/h | 48 días | |
 | **☀️ Otros** | Radiación solar máx. | 1040,2 W/m² | 5 de junio (UVI 10) |
 
-> *Nota: Los datos proceden de la estación meteorológica automática Sainlogic WS3500 emitiendo a través de una puerta de enlace Ecowitt GW1200.
+> *Nota: Los datos proceden de una [estación meteorológica automática](https://www.meteoclimatic.net/perfil/ESCTB3900000039720A) Sainlogic WS3500 emitiendo a través de una puerta de enlace Ecowitt GW1200.
