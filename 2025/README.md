@@ -145,4 +145,4 @@ Resumen detallado de valores extremos y promedios registrados durante 2025.
 | | Días con rachas >40 km/h | 48 días | |
 | **☀️ Otros** | Radiación solar máx. | 1040,2 W/m² | 5 de junio (UVI 10) |
 
-> *Nota: Los datos proceden de una [estación meteorológica automática](https://www.meteoclimatic.net/perfil/ESCTB3900000039720A) Sainlogic WS3500 emitiendo a través de una puerta de enlace Ecowitt GW1200.
+> *Nota: Los datos proceden de una [estación meteorológica automática](https://app.weathercloud.net/d6619283754) Sainlogic WS3500 emitiendo a través de una puerta de enlace Ecowitt GW1200.
