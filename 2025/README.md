@@ -2,9 +2,20 @@
 
 **Barrio de Arriba, Riotuerto (Cantabria)**
 
-El año 2025 se caracterizó por un comportamiento **hiperhúmedo y térmicamente dinámico**. A pesar de una temperatura media anual suave (14,7 ºC), propia de la influencia atlántica, el año estuvo marcado por fuertes contrastes: desde heladas invernales (-2,2 ºC) hasta picos de calor extremo en verano, con una máxima histórica de 40,2 ºC provocada por una intensa surada.
 
-Desde el punto de vista hidrológico, fue un año excepcional con más de **1700 mm** acumulados, donde la lluvia estuvo presente en casi el 60% de los días del año.
+## 📝 Descripción sinóptica del año 2025
+
+**Carácter general: Muy húmedo y cálido.**
+
+El año 2025 en la estación de Barrio de Arriba (Riotuerto) se define climáticamente por una marcada **anomalía pluviométrica positiva** y un comportamiento térmico suave, interrumpido por episodios extremos de corta duración. La circulación atmosférica estuvo dominada por el paso frecuente de frentes atlánticos, intercalados con incursiones de aire subtropical y eventos de viento sur (efecto Foehn) característicos del valle del Miera/Covadal.
+
+### Comportamiento termométrico
+Con una **temperatura media anual de 14,7 ºC**, el año se sitúa en valores propios de un año cálido para la cornisa cantábrica interior.
+* **Invierno:** Se observaron episodios de enfriamiento nocturno significativos, destacando la mínima absoluta de **-2,2 ºC** (14 de enero), asociada a una situación de estabilidad post-frontal e inversión térmica en el valle.
+* **Verano:** La estación cálida presentó un perfil irregular. Si bien la tónica general fue moderada, el **15 de agosto** se registró un evento extraordinario de calor con **40,2 ºC**, provocado por una entrada de aire cálido del sur que disparó la temperatura y desplomó la humedad relativa, un patrón recurrente en la zona de Riotuerto debido a la orografía.
+
+### Comportamiento pluviométrico
+El año ha resultado **extremadamente húmedo**, con un acumulado de **1706,9 mm**. La precipitación fue persistente (apreciable en el 59% de los días), lo que indica un predominio de la circulación zonal del oeste (borrascas atlánticas) sobre los bloqueos anticiclónicos.
 
 ---
 
@@ -30,23 +41,20 @@ Se registraron **15 días** con temperaturas superiores a 30 ºC, concentrados p
 El dato más relevante de 2025 es la pluviometría: **1.706,9 mm** acumulados. Esta cifra sitúa al año muy por encima de la media nacional y refuerza el carácter lluvioso de esta zona de Trasmiera.
 
 * **Acumulado total:** 1706,9 mm
-* **Días con lluvia apreciable (≥0,2 mm):** 218 días. Este datos de persistencia hace que no solo destaque no solo la cantidad, sino la frecuencia ( **6 de cada 10 días** el suelo recibió agua.)
+* **Días con lluvia apreciable (≥0,2 mm):** 218 días. Este datos de persistencia hace que no solo destaque la cantidad, sino la frecuencia ( **6 de cada 10 días** el suelo recibió agua.)
 * **Intensidad:** Se registraron 9 días con acumulados superiores a 30 mm (lluvias fuertes) asociados a frentes activos del noroeste.
 
 
 ### Comportamiento estacional
-1.  **Otoño (Estación más lluviosa):** Noviembre fue extraordinariamente húmedo, acumulando **286,4 mm** y registrando el día más lluvioso del año (24 de noviembre con 67,8 mm). Curiosamente, octubre fue el mes más seco del año (77,2 mm), rompiendo la tendencia habitual.
+1.  **Otoño (estación más lluviosa):** Noviembre fue extraordinariamente húmedo, acumulando **286,4 mm** y registrando el día más lluvioso del año (24 de noviembre con 67,8 mm). Curiosamente, octubre fue el mes más seco del año (77,2 mm), debido a un bloqueo anticiclónico persistente, rompiendo la tendencia habitual del otoño cantábrico.
 2.  **Invierno:** Muy activo, con 467 mm acumulados entre diciembre, enero y febrero.
-3.  **Verano:** Aunque suele ser la estación seca, julio y agosto sumaron más de 200 mm, manteniendo el verdor del valle.
+3.  **Verano:** Aunque suele ser la estación seca, julio y agosto sumaron más de 200 mm.
 
 ---
 
 ## 💨 Viento y dinámica atmosférica
 
-La orografía del valle del Covadal protegió la estación de los vientos medios (solo 2,7 km/h de promedio anual), pero canalizó las borrascas invernales con fuerza.
-
-* **El gran vendaval de enero:** El **26 de enero** se registró la racha máxima absoluta de **86,4 km/h**. Este evento estuvo asociado a una profunda borrasca que afectó a toda la cornisa cantábrica (borrasca Herminia).
-* **Vientos persistentes:** Durante el año hubo 48 días con rachas superiores a 40 km/h, concentrados principalmente en los meses invernales y en los episodios de viento sur.
+La orografía del valle del Covadal protegió la estación de los vientos medios (solo 2,7 km/h de promedio anual), pero canalizó las borrascas invernales con fuerza. Durante el año hubo 48 días con rachas superiores a 40 km/h, concentrados principalmente en los meses invernales y en los episodios de viento sur. El **26 de enero** se registró la racha máxima absoluta de **86,4 km/h**. Este evento estuvo asociado a una profunda borrasca que afectó a toda la cornisa cantábrica (borrasca Herminia).
 
 ---
 
@@ -89,7 +97,7 @@ A continuación se presentan las visualizaciones generadas a partir del registro
 
 > **💡 Análisis:**
 > * **El climograma** pone de manifiesto la anomalía otoñal: se observa claramente el "bache" pluviométrico de octubre (barra baja) flanqueado por un septiembre y un noviembre muy húmedos.
-> * **El gráfico de rangos** ilustra perfectamente el "efecto acordeón" de las temperaturas en verano. Los picos agudos de agosto (línea roja disparada hacia arriba con línea azul estable o subiendo) delatan las entradas de viento sur, donde la amplitud térmica se maximiza.
+> * **El gráfico de rangos** ilustra perfectamente el "efecto acordeón" de las temperaturas en verano. Los picos agudos de agosto delatan las entradas de viento sur, donde la amplitud térmica se maximiza.
 > * **El calendario** ofrece una vista de "mapa de calor" donde se aprecia la persistencia de la lluvia (celdas azules) durante casi toda la primera mitad del año, confirmando el carácter muy húmedo de este 2025.
 
 ### 2. Régimen de vientos
