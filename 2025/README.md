@@ -3,18 +3,16 @@
 **Barrio de Arriba, Riotuerto (Cantabria)**
 
 
-## 📝 Descripción sinóptica del año 2025
+## 📝 Descripción sinóptica
 
 **Carácter general: Muy húmedo y cálido.**
 
 El año 2025 en la estación de Barrio de Arriba (Riotuerto) se define climáticamente por una marcada **anomalía pluviométrica positiva** y un comportamiento térmico suave, interrumpido por episodios extremos de corta duración. La circulación atmosférica estuvo dominada por el paso frecuente de frentes atlánticos, intercalados con incursiones de aire subtropical y eventos de viento sur (efecto Foehn) característicos del valle del Miera/Covadal.
 
-### Comportamiento termométrico
 Con una **temperatura media anual de 14,7 ºC**, el año se sitúa en valores propios de un año cálido para la cornisa cantábrica interior.
 * **Invierno:** Se observaron episodios de enfriamiento nocturno significativos, destacando la mínima absoluta de **-2,2 ºC** (14 de enero), asociada a una situación de estabilidad post-frontal e inversión térmica en el valle.
 * **Verano:** La estación cálida presentó un perfil irregular. Si bien la tónica general fue moderada, el **15 de agosto** se registró un evento extraordinario de calor con **40,2 ºC**, provocado por una entrada de aire cálido del sur que disparó la temperatura y desplomó la humedad relativa, un patrón recurrente en la zona de Riotuerto debido a la orografía.
 
-### Comportamiento pluviométrico
 El año ha resultado **extremadamente húmedo**, con un acumulado de **1706,9 mm**. La precipitación fue persistente (apreciable en el 59% de los días), lo que indica un predominio de la circulación zonal del oeste (borrascas atlánticas) sobre los bloqueos anticiclónicos.
 
 ---
