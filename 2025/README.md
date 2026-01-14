@@ -141,7 +141,7 @@ Resumen detallado de valores extremos y promedios registrados durante 2025.
 | | Mes más lluvioso | Noviembre | 286,4 mm |
 | | Mes más seco | Octubre | 77,2 mm |
 | **💨 Viento** | Velocidad media | 2,7 km/h | |
-| | Racha máxima | **86,4 km/h** | 26 de enero (B. Hermigia) |
+| | Racha máxima | **86,4 km/h** | 26 de enero ([B. Hermigia](https://www.aemet.es/es/conocermas/borrascas/2024-2025/estudios_e_impactos/herminia)) |
 | | Días con rachas >40 km/h | 48 días | |
 | **☀️ Otros** | Radiación solar máx. | 1040,2 W/m² | 5 de junio (UVI 10) |
 
