@@ -20,6 +20,8 @@ Situada en el **valle del río Covadal** (afluente del Miera), la estación se u
 1.  **Efecto orográfico:** La orientación noroeste del valle facilita la entrada de aire húmedo desde el mar Cantábrico, incrementando las precipitaciones.
 2.  **Efecto Foehn (suradas):** La zona es propensa a vientos del sur que, tras ascender la cordillera y descargar su humedad, descienden hacia el valle secos y cálidos. Esto provoca aumentos bruscos de temperatura y descensos notables de la humedad relativa.
 
+![Topografía del valle donde se sitúa la estación meteorológica](2024/img/topography.jpeg)
+
 ---
 
 ## ⚙️ Ficha técnica de la estación
