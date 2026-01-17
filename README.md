@@ -14,7 +14,7 @@ La estación se encuentra en una ubicación geográfica particular que define su
 * **Altitud:** 115 msnm
 * **Localidad:** Barrio de Arriba, Riotuerto (Cantabria, España).
 
-Situada en el **valle del río Covadal** (afluente del Miera), la estación se ubica en las estribaciones de la Cordillera Cantábrica, a 14 km de la costa y 5 km del puerto de Alisas.
+Situada en el **valle del río Covadal** (afluente del Miera), la estación se ubica en las estribaciones de la Cordillera Cantábrica, a 16 km del aeropuerto de Santander, 14 km de la costa y 5 km del puerto de Alisas.
 
 ### Particularidades climáticas
 1.  **Efecto orográfico:** La orientación noroeste del valle facilita la entrada de aire húmedo desde el mar Cantábrico, incrementando las precipitaciones.
