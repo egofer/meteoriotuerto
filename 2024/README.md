@@ -2,9 +2,7 @@
 
 **Barrio de Arriba, Riotuerto (Cantabria)**
 
-El año 2024 quedará registrado como **uno de los más húmedos de la serie histórica**, con un acumulado excepcional superior a los **2000 mm**. A la persistencia de las lluvias se sumó una gran volatilidad térmica: aunque la temperatura media (14,3 ºC) fue ligeramente inferior a la de 2025, el verano dejó el récord absoluto de calor de la estación con **42,1 ºC**.
-
-> **Estado de los datos:** El registro está completo para los 366 días del año (año bisiesto). Se ha validado la consistencia de los datos, detectándose una alta actividad de borrascas atlánticas durante el primer y último trimestre.
+El año 2024 quedará registrado como **uno de los más húmedos de la serie histórica**, con un acumulado excepcional superior a los **2000 mm**. A la persistencia de las lluvias se sumó una gran volatilidad térmica: aunque la temperatura media fue de 14,3 ºC, el verano dejó el récord absoluto de calor de la estación con **42,1 ºC**.
 
 ---
 
@@ -29,7 +27,6 @@ A pesar de la alta nubosidad y lluvia frecuente, las incursiones de aire cálido
 ### Extremos y anomalías
 * **La ola de calor de agosto:** El **11 de agosto** se registró la temperatura más alta jamás medida por la estación hasta la fecha: **42,1 ºC** motiovado por un giro del viento al sur que elevó notablemente las temperaturas, máximas los mensuales, lo que motivó avisos naranjas en el sur y rojo en el resto de Cantabria por parte de la AEMET. Ese mismo día se produjo también la mayor oscilación térmica del año (**23,7 ºC** de diferencia entre el día y la noche), un claro ejemplo de advección cálida continental extrema.
 * **Frío invernal:** La mínima absoluta fue de **-3,1 ºC** el **20 de enero**, siendo este el episodio más frío del año. Solo se registraron 3 días de heladas oficiales, lo que indica un invierno más húmedo y ventoso que gélido.
-* **Noches tropicales:** La noche más cálida del año fue el **29 de julio**, con una mínima de **19,6 ºC**, quedándose a las puertas de la categoría tropical.
 
 ---
 
@@ -67,20 +64,17 @@ A continuación se presentan las visualizaciones generadas a partir del registro
 | ![Climograma 2024](img/climogram_2024.png) | ![Rango de temperaturas](img/temperature_range_2024.png) |
 
 > **💡 Análisis:**
-> * En el **climograma** destaca la **singularidad de septiembre**: habitualmente un mes de transición, en 2024 aparece como la barra más alta (el más lluvioso), rompiendo el patrón estival.
+> * En el **climograma** destaca la **singularidad de septiembre**: habitualmente un mes de transición, en 2024 aparece como el más lluvioso, rompiendo el patrón estival.
 > * El **gráfico de rangos** captura perfectamente la **ola de calor de agosto**. Se observa un pico agudo y aislado correspondiente al 11 de agosto (42,1 ºC), contrastando con la suavidad del resto del verano.
 
-### 2. Calendarios visuales (Mapas de calor)
+| Calendario de temperatura media | Calendario de precipitación |
+| :---: | :---: |
+| ![Calendario de Temperatura](img/avg_temp_calendar_2024.png) | ![Calendario de Lluvia](img/rainfall_calendar_2024.png) |
 
-**Calendario de temperatura media diaria:**
-![Calendario de Temperatura](img/calendar_temp_2024.png)
-
-**Calendario de precipitación diaria:**
-![Calendario de Lluvia](img/calendar_rain_2024.png)
 
 > **💡 Análisis:**
-> * **El rastro del calor extremo:** En el calendario térmico destaca la segunda semana de agosto**, marcando visualmente el récord anual motivado por viento de componente sur y el efecto Foehn que propició el aviso rojo por parte de la Agencia Estatal de Meterología.
-> * **La anomalía de septiembre:** El calendario de precipitaciones ofrece una "radiografía" de la humedad. Llama poderosamente la atención el mes de **septiembre**, que aparece aquí saturado de azul oscuro.
+> * **Calendario de temperaturas:** En el calendario térmico destaca la segunda semana de agosto**, marcando visualmente el récord anual motivado por viento de componente sur y el efecto Foehn que propició el aviso rojo por parte de la Agencia Estatal de Meterología.
+> * **Calendario de precipitaciones:** Llama poderosamente la atención la anomalía del mes de **septiembre**, como mes frío y muy húmedo en promedio. En Cantabria fue el quinto más lluvioso de la serie histórica.
 
 ### 3. Régimen de vientos
 
