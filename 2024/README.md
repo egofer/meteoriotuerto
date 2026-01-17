@@ -27,7 +27,7 @@ A pesar de la alta nubosidad y lluvia frecuente, las incursiones de aire cálido
 * **Media de las mínimas:** 9,4 ºC
 
 ### Extremos y anomalías
-* **La ola de calor de agosto:** El **11 de agosto** se registró la temperatura más alta jamás medida por la estación hasta la fecha: **42,1 ºC**. Ese mismo día se produjo también la mayor oscilación térmica del año (**23,7 ºC** de diferencia entre el día y la noche), un claro ejemplo de advección cálida continental extrema.
+* **La ola de calor de agosto:** El **11 de agosto** se registró la temperatura más alta jamás medida por la estación hasta la fecha: **42,1 ºC** motiovado por un giro del viento al sur que elevó notablemente las temperaturas, máximas los mensuales, lo que motivó avisos naranjas en el sur y rojo en el resto de Cantabria por parte de la AEMET. Ese mismo día se produjo también la mayor oscilación térmica del año (**23,7 ºC** de diferencia entre el día y la noche), un claro ejemplo de advección cálida continental extrema.
 * **Frío invernal:** La mínima absoluta fue de **-3,1 ºC** el **20 de enero**, siendo este el episodio más frío del año. Solo se registraron 3 días de heladas oficiales, lo que indica un invierno más húmedo y ventoso que gélido.
 * **Noches tropicales:** La noche más cálida del año fue el **29 de julio**, con una mínima de **19,6 ºC**, quedándose a las puertas de la categoría tropical.
 
@@ -41,18 +41,17 @@ La cifra del año es **2047,9 mm**. La estación de Riotuerto funcionó como una
 * **Intensidad:** Se registraron 17 días con acumulados superiores a 30 mm y 72 días con más de 10 mm.
 
 ### Comportamiento estacional
-1.  **Otoño anticipado (Septiembre):** Fue el mes más lluvioso del año con **291,7 mm**. Esto es muy inusual, ya que septiembre suele ser un mes de transición.
-2.  **Invierno y final de año:** Febrero y diciembre fueron meses "diluvianos", con 284 mm y 267 mm respectivamente.
+1.  **Otoño anticipado (septiembre):** Fue el mes más lluvioso del año con **291,7 mm**. Esto es muy inusual, ya que septiembre suele ser un mes de transición, y estuvo motivado por un paso continuados de frentes con un flujo constante de masas de aire frió y húmedo del W y NW. Apenas hubo periodos anticiclónicos.
+2.  **Invierno y final de año:** Febrero y diciembre fueron meses húmedos, con 284 mm y 267 mm respectivamente.
 3.  **Primavera seca:** Mayo fue el único mes relativamente seco (**71,9 mm**), dando un breve respiro antes de un verano húmedo.
-4.  **Máximo diario:** El **2 de octubre** se recogieron **57,2 mm** en 24 horas, asociados probablemente a una ciclogénesis explosiva otoñal.
-
+4.  **Máximo diario:** El **2 de octubre** se recogieron **57,2 mm** en 24 horas, asociado a un sistema frontal que produjo precipitaciones localmente persistentes en la región.
 ---
 
 ## 💨 Viento y dinámica atmosférica
 
 El año fue notablemente ventoso, superando los registros de 2025.
 
-* **El temporal de febrero:** El **8 de febrero** la estación registró una racha huracanada de **97,2 km/h**, la máxima del año. Febrero fue un mes especialmente ventoso, castigado por el paso sucesivo de borrascas profundas.
+* **El temporal de febrero:** El **8 de febrero** la estación registró una racha huracanada de **97,2 km/h**, la máxima del año. El evento estuvo asociado a una serie de sistemas frontales de origen atlántico impulsados por la  borrasca Karlotta entre los días 7 y 10. Febrero fue un mes especialmente ventoso, castigado por el paso sucesivo de borrascas profundas.
 * **Persistencia:** Hubo 43 días con rachas superiores a 40 km/h, concentrados en febrero y octubre.
 
 ---
@@ -68,8 +67,8 @@ A continuación se presentan las visualizaciones generadas a partir del registro
 | ![Climograma 2024](img/climogram_2024.png) | ![Rango de temperaturas](img/temperature_range_2024.png) |
 
 > **💡 Análisis:**
-> * **El Climograma** destaca la **singularidad de septiembre**: habitualmente un mes de transición, en 2024 aparece como la barra más alta (el más lluvioso), rompiendo el patrón estival.
-> * **El Gráfico de Rangos** captura perfectamente la **ola de calor de agosto**. Se observa un pico agudo y solitario (la línea roja toca el techo del gráfico) correspondiente al 11 de agosto (42,1 ºC), contrastando con la suavidad del resto del verano.
+> * En el **climograma** destaca la **singularidad de septiembre**: habitualmente un mes de transición, en 2024 aparece como la barra más alta (el más lluvioso), rompiendo el patrón estival.
+> * El **gráfico de rangos** captura perfectamente la **ola de calor de agosto**. Se observa un pico agudo y aislado correspondiente al 11 de agosto (42,1 ºC), contrastando con la suavidad del resto del verano.
 
 ### 2. Calendarios visuales (Mapas de calor)
 
@@ -80,7 +79,7 @@ A continuación se presentan las visualizaciones generadas a partir del registro
 ![Calendario de Lluvia](img/calendar_rain_2024.png)
 
 > **💡 Análisis:**
-> * **El rastro del calor extremo:** En el calendario térmico destaca violentamente la celda de **color rojo oscuro en la segunda semana de agosto**, marcando visualmente el récord histórico.
+> * **El rastro del calor extremo:** En el calendario térmico destaca la segunda semana de agosto**, marcando visualmente el récord anual motivado por viento de componente sur y el efecto Foehn que propició el aviso rojo por parte de la Agencia Estatal de Meterología.
 > * **La anomalía de septiembre:** El calendario de precipitaciones ofrece una "radiografía" de la humedad. Llama poderosamente la atención el mes de **septiembre**, que aparece aquí saturado de azul oscuro.
 
 ### 3. Régimen de vientos
@@ -92,6 +91,10 @@ A continuación se presentan las visualizaciones generadas a partir del registro
 | Rachas máximas diarias | Frecuencia (Escala Beaufort) |
 | :---: | :---: |
 | ![Rachas máximas](img/maximum_wind_speed_2024.png) | ![Escala de Beaufort](img/wind:distribution_beaufort_scale.png) |
+
+> **💡 Análisis:**
+> * **Canalización orográfica:** La rosa de los vientos muestra una clara predominancia de los sectores que canalizan el valle (Noroeste para lluvias/frentes y Sur para eventos cálidos).
+> * **Eventos severos:** El gráfico de rachas máximas aísla visualmente el **temporal de febrero**, marcando el evento eólico más violento del año rozando los 100 km/h.
 
 ---
 
