@@ -2,7 +2,7 @@
 
 **Barrio de Arriba, Riotuerto (Cantabria)**
 
-El año 2024 quedará registrado como **uno de los más húmedos de la serie histórica**, con un acumulado excepcional superior a los **2000 mm**. A la persistencia de las lluvias se sumó una gran volatilidad térmica: aunque la temperatura media fue de 14,3 ºC, el verano dejó el récord absoluto de calor de la estación con **42,1 ºC**.
+El año 2024 quedará registrado en su conjunto como **muy húmedo en cuanto a precipitaciones**, con un acumulado excepcional superior a los **2000 mm** y **cálido**. A la persistencia de las lluvias se sumó una gran volatilidad térmica: aunque la temperatura media fue de 14,3 ºC, el verano dejó el récord absoluto de calor de la estación con **42,1 ºC**.
 
 ---
 
