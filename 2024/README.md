@@ -73,7 +73,7 @@ A continuación se presentan las visualizaciones generadas a partir del registro
 
 
 > **💡 Análisis:**
-> * **Calendario de temperaturas:** En el calendario térmico destaca la segunda semana de agosto**, marcando visualmente el récord anual motivado por viento de componente sur y el efecto Foehn que propició el aviso rojo por parte de la Agencia Estatal de Meterología.
+> * **Calendario de temperaturas:** En el calendario térmico destaca la segunda semana de agosto, marcando visualmente el récord anual motivado por viento de componente sur y el efecto Foehn que propició el aviso rojo por parte de la Agencia Estatal de Meterología.
 > * **Calendario de precipitaciones:** Llama poderosamente la atención la anomalía del mes de **septiembre**, como mes frío y muy húmedo en promedio. En Cantabria fue el quinto más lluvioso de la serie histórica.
 
 ### 3. Régimen de vientos
@@ -119,7 +119,7 @@ Resumen detallado de valores extremos y promedios registrados durante 2024.
 | | Mes más lluvioso | Septiembre | 291,7 mm |
 | | Mes más seco | Mayo | 71,9 mm |
 | **💨 Viento** | Velocidad media | 2,5 km/h | |
-| | Racha máxima | **97,2 km/h** | 8 de febrero  ([B Karlotta](https://www.aemet.es/es/conocermas/borrascas/2023-2024/estudios_e_impactos/karlotta))|
+| | Racha máxima | **97,2 km/h** | 8 de febrero  ([B. Karlotta](https://www.aemet.es/es/conocermas/borrascas/2023-2024/estudios_e_impactos/karlotta))|
 | | Días con rachas >40 km/h | 43 días | |
 
 > *Nota: Los datos proceden de una [estación meteorológica automática](https://app.weathercloud.net/d6619283754) Sainlogic WS3500 emitiendo a través de una puerta de enlace Ecowitt GW1200.
