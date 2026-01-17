@@ -26,7 +26,7 @@ A pesar de la alta nubosidad y lluvia frecuente, las incursiones de aire cálido
 
 ### Extremos y anomalías
 * **La ola de calor de agosto:** El **11 de agosto** se registró la temperatura más alta jamás medida por la estación hasta la fecha: **42,1 ºC** motiovado por un giro del viento al sur que elevó notablemente las temperaturas, máximas los mensuales, lo que motivó avisos naranjas en el sur y rojo en el resto de Cantabria por parte de la AEMET. Ese mismo día se produjo también la mayor oscilación térmica del año (**23,7 ºC** de diferencia entre el día y la noche), un claro ejemplo de advección cálida continental extrema.
-* **Frío invernal:** La mínima absoluta fue de **-3,1 ºC** el **20 de enero**, siendo este el episodio más frío del año. Solo se registraron 3 días de heladas oficiales, lo que indica un invierno más húmedo y ventoso que gélido.
+* **Frío invernal:** La mínima absoluta fue de **-3,1 ºC** el **20 de enero**, siendo este el episodio más frío del año motivado por un tiempo anticiclónico y noches con cielos despejados. Solo se registraron 3 días de heladas oficiales, lo que indica un invierno más húmedo y ventoso que gélido.
 
 ---
 
