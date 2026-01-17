@@ -84,7 +84,7 @@ A continuación se presentan las visualizaciones generadas a partir del registro
 
 | Rachas máximas diarias | Frecuencia (Escala Beaufort) |
 | :---: | :---: |
-| ![Rachas máximas](img/maximum_wind_speed_2024.png) | ![Escala de Beaufort](img/wind_distribution_beaufort_scale_2025.png) |
+| ![Rachas máximas](img/maximum_wind_speed_2024.png) | ![Escala de Beaufort](img/wind_distribution_beaufort_scale_2024.png) |
 
 > **💡 Análisis:**
 > * **Canalización orográfica:** La rosa de los vientos muestra una clara predominancia de los sectores que canalizan el valle (Noroeste para lluvias/frentes y Sur para eventos cálidos).
