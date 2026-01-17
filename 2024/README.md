@@ -48,7 +48,7 @@ La cifra del año es **2047,9 mm**. La estación de Riotuerto funcionó como una
 
 El año fue notablemente ventoso, superando los registros de 2025.
 
-* **El temporal de febrero:** El **8 de febrero** la estación registró una racha huracanada de **97,2 km/h**, la máxima del año. El evento estuvo asociado a una serie de sistemas frontales de origen atlántico impulsados por la  borrasca Karlotta entre los días 7 y 10. Febrero fue un mes especialmente ventoso, castigado por el paso sucesivo de borrascas profundas.
+* **El temporal de febrero:** El **8 de febrero** la estación registró una racha huracanada de **97,2 km/h**, la máxima del año. El evento estuvo asociado a una serie de sistemas frontales de origen atlántico impulsados por la  [borrasca Karlotta](https://www.aemet.es/es/conocermas/borrascas/2023-2024/estudios_e_impactos/karlotta) entre los días 7 y 10. Febrero fue un mes especialmente ventoso, castigado por el paso sucesivo de borrascas profundas.
 * **Persistencia:** Hubo 43 días con rachas superiores a 40 km/h, concentrados en febrero y octubre.
 
 ---
@@ -110,7 +110,7 @@ Resumen detallado de valores extremos y promedios registrados durante 2024.
 | | Calor (>30 ºC) | 5 días | |
 | | Calor intenso (>35 ºC) | 2 días | |
 | | Calor extremo (>40 ºC) | 1 día | (Récord anual) |
-| **☔ Precipitaciones** | **Acumulado total** | **2047,9 mm** | **Año Hiperhúmedo** |
+| **☔ Precipitaciones** | **Acumulado total** | **2047,9 mm** | |
 | | Días de lluvia (≥0,2 mm) | 233 días | |
 | | Días de lluvia (≥1 mm) | 163 días | |
 | | Días de lluvia (≥10 mm) | 72 días | |
@@ -119,5 +119,7 @@ Resumen detallado de valores extremos y promedios registrados durante 2024.
 | | Mes más lluvioso | Septiembre | 291,7 mm |
 | | Mes más seco | Mayo | 71,9 mm |
 | **💨 Viento** | Velocidad media | 2,5 km/h | |
-| | Racha máxima | **97,2 km/h** | 8 de febrero |
+| | Racha máxima | **97,2 km/h** | 8 de febrero  ([B Karlotta](https://www.aemet.es/es/conocermas/borrascas/2023-2024/estudios_e_impactos/karlotta))|
 | | Días con rachas >40 km/h | 43 días | |
+
+> *Nota: Los datos proceden de una [estación meteorológica automática](https://app.weathercloud.net/d6619283754) Sainlogic WS3500 emitiendo a través de una puerta de enlace Ecowitt GW1200.
