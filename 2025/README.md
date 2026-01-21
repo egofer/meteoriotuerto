@@ -36,7 +36,7 @@ Se registraron **15 días** con temperaturas superiores a 30 ºC, concentrados p
 
 ## ☔ Análisis pluviométrico
 
-El dato más relevante de 2025 es la pluviometría: **1.706,9 mm** acumulados. Esta cifra sitúa al año muy por encima de la media nacional y refuerza el carácter lluvioso de esta zona de Trasmiera.
+El dato más relevante de 2025 es la pluviometría: **1.706,9 mm** acumulados. Esta cifra sitúa al año muy por encima de la media nacional y refuerza el carácter lluvioso de esta zona de Trasmiera, con un valle de orientación noroeste, que canaliza aire húmedo marino, y relativamente próximo a los montes pasiegos, el sector más lluvioso de Cantabria.
 
 * **Acumulado total:** 1706,9 mm
 * **Días con lluvia apreciable (≥0,2 mm):** 218 días. Este datos de persistencia hace que no solo destaque la cantidad, sino la frecuencia ( **6 de cada 10 días** el suelo recibió agua.)
