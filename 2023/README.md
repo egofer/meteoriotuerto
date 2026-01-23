@@ -109,7 +109,7 @@ Aunque el viento medio se mantuvo moderado (2,5 km/h), los eventos de sur y las 
 ![Calendario de Lluvia](img/rainfall_calendar_2023.png)
 
 > **💡 Análisis:**
-> * **El mapa térmico (temperatura):** Permite ver claramente cómo **septiembre fue el mes más cálido en promedio** incluso más que julio o agosto, que tuvieron picos puntuales pero medias más bajas. Octubre aparece inusualmente cálido para la época.
+> * **El mapa térmico (temperatura):** Permite ver claramente cómo **septiembre fue el mes más cálido en promedio** incluso más que julio o agosto, que tuvieron picos puntuales pero medias más bajas. Octubre fue inusualmente cálido para la época.
 > * **El mapa hídrico (precipitación):** Enero fue un mes de lluvia casi diaria e intensa. Noviembre replica este patrón. El contraste con los días secos de julio y octubre es evidente.
 
 ### 3. Régimen de vientos
