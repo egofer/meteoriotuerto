@@ -3,7 +3,7 @@
 
 **Barrio de Arriba, Riotuerto (Cantabria)**
 
-El 2023 se consolida como un **muy húmedo**, superando la barrera de los **2100 mm**, aunque con una distribución estacional muy desigual. Fue un año de extremos hidrológicos: comenzó con un enero histórico por sus acumulados torrenciales (más de 500 mm) y terminó con un noviembre muy húmedo, intercalando periodos secos y cálidos como un octubre inusualmente veraniego. El comportamiento térmico fue **extremadamente cálido**, siguiendo la tendencia regional reportada por AEMET.
+El 2023 se consolida como un años **muy húmedo**, superando la barrera de los **2100 mm**, aunque con una distribución estacional muy desigual. Fue un año de **extremos hidrológicos**: comenzó con un enero histórico por sus acumulados torrenciales (más de 500 mm) y terminó con un noviembre muy húmedo, intercalando periodos secos y cálidos como un octubre inusualmente veraniego. El comportamiento térmico fue **extremadamente cálido**, siguiendo la tendencia regional reportada por AEMET.
 
 > **⚠️ Estado de los datos (incidencia técnica):**
 > El registro anual presenta una discontinuidad significativa debido a una incidencia técnica en la estación. **No existen datos registrados entre el 22 de septiembre y el 12 de octubre** (aproximadamente 20 días).
@@ -122,6 +122,11 @@ Aunque el viento medio se mantuvo moderado (2,5 km/h), los eventos de sur y las 
 | :---: | :---: |
 | ![Rachas máximas](img/maximum_wind_speed_2023.png) | ![Escala de Beaufort](img/wind_distribution_beaufort_scale_2023.png) |
 
+> **💡 Análisis:**
+> * El gráfico de **rachas máximas** de 2023 muestra una actividad frenética en dos bloques: **enero** y **noviembre**. Estos "dientes de sierra" elevados corresponden al paso sucesivo de frentes (borrascas *Fien* al inicio y *Ciarán/Domingos* al final).
+> * En la **rosa de los vientos** se observa una marcada componente Sur/Suroeste, responsables de las advecciones cálidas que provocaron la ola de calor de agosto y el octubre tropical. El regimen se complementa con los habituales vientos del noroeste que trajeron las lluvias atlánticas.
+> * A pesar de los temporales, el **gráfico Beaufort** recuerda la realidad local del valle: la gran mayoría de los días el viento apenas es una brisa, confirmando que la estación está en una zona orográficamente protegida que solo se activa con situaciones sinópticas muy marcadas.
+
 ---
 
 ## 📈 Ficha estadística anual
@@ -153,3 +158,6 @@ Resumen detallado de valores extremos y promedios registrados durante 2023.
 | **💨 Viento** | Velocidad media | 2,5 km/h | |
 | | Racha máxima | **73,4 km/h** | 4 de noviembre |
 | | Días con rachas >40 km/h | 43 días | |
+
+
+> *Nota: Los datos proceden de una [estación meteorológica automática](https://app.weathercloud.net/d6619283754) Sainlogic WS3500 emitiendo a través de una puerta de enlace Ecowitt GW1200.
