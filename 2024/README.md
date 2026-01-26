@@ -32,7 +32,7 @@ A pesar de la alta nubosidad y lluvia frecuente, las incursiones de aire cálido
 
 ## ☔ Análisis pluviométrico
 
-La cifra del año es **2047,9 mm**. La estación de Riotuerto funcionó como una "trampa orográfica" perfecta para los frentes del noroeste, acumulando cantidades ingentes de agua.
+La cifra del año es **2047,9 mm**. La situación y orientación del valle crea una "trampa orográfica" que propicia la acumulación de lluvia de los frentes del noroeste.
 
 * **Frecuencia:** Llovió de forma apreciable en **233 días** (casi el 64% del año).
 * **Intensidad:** Se registraron 17 días con acumulados superiores a 30 mm y 72 días con más de 10 mm.
