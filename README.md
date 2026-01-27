@@ -1,6 +1,6 @@
 # 🌦️ MeteoRiotuerto
 
-**Repositorio de datos meteorológicos históricos de la estación automática en Barrio de Arriba, Riotuerto (Cantabria, España).**
+**Repositorio de datos meteorológicos históricos de una estación automática situada en Barrio de Arriba, Riotuerto (Cantabria, España).**
 
 Este proyecto almacena, procesa y visualiza los registros climáticos recogidos ininterrumpidamente, ofreciendo recursos tanto para aficionados a la meteorología como para estudios climáticos locales.
 
