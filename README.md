@@ -48,7 +48,7 @@ La estación recopila datos cada 30 minutos de los siguientes parámetros:
 
 ## 📂 Estructura del repositorio
 
-Los datos están organizados por años (`/2022`, `/2023`, `/2024`, `/2025`). Dentro de cada año, encontrarás la siguiente estructura:
+Los datos están organizados por años (`/2022`, `/2023`, `/2024`, `/2025`, `/2026`). Dentro de cada año, encontrarás la siguiente estructura:
 
 ### 📄 Datos (`/data`)
 Formatos CSV estandarizados (separador decimal: punto).
