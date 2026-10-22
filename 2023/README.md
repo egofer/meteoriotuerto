@@ -144,6 +144,8 @@ Resumen detallado de valores extremos y promedios registrados durante 2023.
 | | Mínima más alta (noche cálida) | 20,3 ºC | 18 de octubre (Noche tropical) |
 | | Mayor oscilación térmica | 23,7 ºC | 28 de marzo |
 | **❄️ Días de Tª** | Heladas (Mín ≤0 ºC) | 14 días | |
+| | Noches tropicales (Mín ≥20 ºC) | 1 día | 18 de octubre (20,3 ºC) |
+| | Noches tórridas o ecuatoriales (Mín ≥25 ºC) | 0 días | |
 | | Calor (>30 ºC) | 13 días | |
 | | Calor intenso (>35 ºC) | 1 día | |
 | | Calor extremo (>40 ºC) | 1 día | |

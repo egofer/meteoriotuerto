@@ -129,6 +129,8 @@ Resumen detallado de valores extremos y promedios registrados durante 2025.
 | | Mínima más alta (noche cálida) | 19,4 ºC | 14 de agosto |
 | | Mayor oscilación térmica | 23,6 ºC | 6 de septiembre |
 | **❄️ Días de Tª** | Heladas (Mín ≤0 ºC) | 10 días | |
+| | Noches tropicales (Mín ≥20 ºC) | 0 días | |
+| | Noches tórridas o ecuatoriales (Mín ≥25 ºC) | 0 días | |
 | | Calor (>30 ºC) | 15 días | |
 | | Calor intenso (>35 ºC) | 5 días | |
 | | Calor extremo (>40 ºC) | 1 día | |

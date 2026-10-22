@@ -107,6 +107,8 @@ Resumen detallado de valores extremos y promedios registrados durante 2024.
 | | Mínima más alta (noche cálida) | 19,6 ºC | 29 de julio |
 | | Mayor oscilación térmica | 23,7 ºC | 11 de agosto |
 | **❄️ Días de Tª** | Heladas (Mín ≤0 ºC) | 3 días | |
+| | Noches tropicales (Mín ≥20 ºC) | 0 días | |
+| | Noches tórridas o ecuatoriales (Mín ≥25 ºC) | 0 días | |
 | | Calor (>30 ºC) | 5 días | |
 | | Calor intenso (>35 ºC) | 2 días | |
 | | Calor extremo (>40 ºC) | 1 día | (Récord anual) |
