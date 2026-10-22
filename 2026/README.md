@@ -2,6 +2,9 @@
 
 **Barrio de Arriba, Riotuerto (Cantabria, España)**
 
+> [!IMPORTANT]
+> **Datos parciales y provisionales:** El año 2026 se encuentra actualmente en curso. Las estadísticas, gráficos y acumulados reflejados en este almanaque corresponden al periodo observado hasta la última actualización (2026-10-22) y tienen carácter estrictamente provisional hasta el cierre definitivo del año natural.
+
 ## 📝 Descripción sinóptica
 
 El año 2026 en la estación meteorológica automática de Barrio de Arriba (Riotuerto) registra una temperatura media acumulada de **15.8 ºC** y una precipitación total de **1497.1 mm** distribuida en **151 días de lluvia apreciable (≥0,2 mm)**.
