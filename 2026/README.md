@@ -9,7 +9,7 @@
 
 El año 2026 en la estación meteorológica automática de Barrio de Arriba (Riotuerto) registra una temperatura media acumulada de **15.8 ºC** y una precipitación total de **1497.1 mm** distribuida en **151 días de lluvia apreciable (≥0,2 mm)**.
 
-* **Temperaturas extremas:** La máxima absoluta alcanzó los **41.3 ºC** (2026-06-24), mientras que la mínima absoluta descendió hasta **-1.4 ºC** (2026-01-04).
+* **Temperaturas extremas:** La máxima absoluta alcanzó los **41.3 ºC** (2026-06-24), mientras que la mínima absoluta descendió hasta **-1.4 ºC** (2026-01-04). Se registraron **4 noches tropicales (mínima ≥20 ºC)**.
 * **Régimen pluviométrico:** El día más lluvioso dejó **83.8 mm** (2026-10-07). El mes con mayor precipitación fue **Marzo** con **302.0 mm**, mientras que el más seco fue **Agosto** (56.3 mm).
 * **Viento:** La racha máxima registrada fue de **73.4 km/h** (2026-01-21), con **30 días** con rachas superiores a 40 km/h.
 
@@ -49,6 +49,8 @@ El año 2026 en la estación meteorológica automática de Barrio de Arriba (Rio
 | | Media de las mínimas | 10.9 ºC | |
 | | Mayor oscilación térmica diaria | 25.2 ºC | 2026-07-06 |
 | **❄️ Días de Tª** | Heladas (Mín ≤0 ºC) | 2 días | |
+| | Noches tropicales (Mín ≥20 ºC) | 4 días | |
+| | Noches tórridas o ecuatoriales (Mín ≥25 ºC) | 0 días | |
 | | Calor (>30 ºC) | 31 días | |
 | | Calor intenso (>35 ºC) | 11 días | |
 | | Calor extremo (>40 ºC) | 1 días | |
