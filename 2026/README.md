@@ -3,7 +3,7 @@
 **Barrio de Arriba, Riotuerto (Cantabria, España)**
 
 > [!IMPORTANT]
-> **Datos parciales y provisionales:** El año 2026 se encuentra actualmente en curso. Las estadísticas, gráficos y acumulados reflejados en este almanaque corresponden al periodo observado hasta la última actualización (2026-10-28) y tienen carácter estrictamente provisional hasta el cierre definitivo del año natural.
+> **Datos parciales y provisionales:** El año 2026 se encuentra actualmente en curso. Las estadísticas, gráficos y acumulados reflejados en este almanaque corresponden al periodo observado hasta la última actualización (2026-10-29) y tienen carácter estrictamente provisional hasta el cierre definitivo del año natural.
 
 ## 📝 Descripción sinóptica
 
@@ -80,4 +80,4 @@ El año 2026 en la estación meteorológica automática de Barrio de Arriba (Rio
 | **Julio** | 21.4 | 39.2 | 12.4 | 58.5 | 27.7 |
 | **Agosto** | 20.8 | 33.3 | 11.6 | 56.3 | 34.9 |
 | **Septiembre** | 18.7 | 36.2 | 9.4 | 81.7 | 48.0 |
-| **Octubre** | 15.3 | 28.3 | 4.0 | 224.2 | 38.5 |
+| **Octubre** | 15.1 | 28.3 | 4.0 | 224.2 | 38.5 |
