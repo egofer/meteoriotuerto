@@ -4,6 +4,9 @@
 
 Este proyecto almacena, procesa y visualiza los registros climáticos recogidos ininterrumpidamente, ofreciendo recursos tanto para aficionados a la meteorología como para estudios climáticos locales.
 
+> 🌐 **Sitio web oficial y almanaque interactivo:**  
+> Acceda a la aplicación web del proyecto en **[https://egofer.github.io/meteoriotuerto-web/](https://egofer.github.io/meteoriotuerto-web/)** para explorar almanaques anuales, gráficos interactivos de alta resolución, comparativas históricas multianuales, efemérides y el cuaderno agroclimático de Riotuerto.
+
 ---
 
 ## 📍 Ubicación y geografía

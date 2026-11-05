@@ -6,3 +6,4 @@ README.md~
 
 # Ignorar archivos temporales de LibreOffice (ya que usas Calc)
 .~lock.*
+/contexto/
