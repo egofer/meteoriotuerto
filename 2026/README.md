@@ -3,11 +3,11 @@
 **Barrio de Arriba, Riotuerto (Cantabria, España)**
 
 > [!IMPORTANT]
-> **Datos parciales y provisionales:** El año 2026 se encuentra actualmente en curso. Las estadísticas, gráficos y acumulados reflejados en este almanaque corresponden al periodo observado hasta la última actualización (2026-11-25) y tienen carácter estrictamente provisional hasta el cierre definitivo del año natural.
+> **Datos parciales y provisionales:** El año 2026 se encuentra actualmente en curso. Las estadísticas, gráficos y acumulados reflejados en este almanaque corresponden al periodo observado hasta la última actualización (2026-11-26) y tienen carácter estrictamente provisional hasta el cierre definitivo del año natural.
 
 ## 📝 Descripción sinóptica
 
-El año 2026 en la estación meteorológica automática de Barrio de Arriba (Riotuerto) registra una temperatura media acumulada de **15.6 ºC** y una precipitación total de **1630.1 mm** distribuida en **174 días de lluvia apreciable (≥0,2 mm)**.
+El año 2026 en la estación meteorológica automática de Barrio de Arriba (Riotuerto) registra una temperatura media acumulada de **15.6 ºC** y una precipitación total de **1681.3 mm** distribuida en **175 días de lluvia apreciable (≥0,2 mm)**.
 
 * **Temperaturas extremas:** La máxima absoluta alcanzó los **41.3 ºC** (2026-06-24), mientras que la mínima absoluta descendió hasta **-1.4 ºC** (2026-01-04). Se registraron **4 noches tropicales (mínima ≥20 ºC)**.
 * **Régimen pluviométrico:** El día más lluvioso dejó **83.8 mm** (2026-10-07). El mes con mayor precipitación fue **Marzo** con **302.0 mm**, mientras que el más seco fue **Agosto** (56.3 mm).
@@ -45,7 +45,7 @@ El año 2026 en la estación meteorológica automática de Barrio de Arriba (Rio
 | **🌡️ Temperaturas** | Media anual | **15.6 ºC** | |
 | | Máxima absoluta | **41.3 ºC** | 2026-06-24 |
 | | Mínima absoluta | **-1.4 ºC** | 2026-01-04 |
-| | Media de las máximas | 21.7 ºC | |
+| | Media de las máximas | 21.6 ºC | |
 | | Media de las mínimas | 10.7 ºC | |
 | | Mayor oscilación térmica diaria | 25.2 ºC | 2026-07-06 |
 | **❄️ Días de Tª** | Heladas (Mín ≤0 ºC) | 2 días | |
@@ -54,10 +54,10 @@ El año 2026 en la estación meteorológica automática de Barrio de Arriba (Rio
 | | Calor (>30 ºC) | 31 días | |
 | | Calor intenso (>35 ºC) | 11 días | |
 | | Calor extremo (>40 ºC) | 1 días | |
-| **☔ Precipitaciones** | **Acumulado total** | **1630.1 mm** | |
-| | Días de lluvia (≥0,2 mm) | 174 días | |
-| | Días de lluvia (≥1 mm) | 126 días | |
-| | Días de lluvia (≥10 mm) | 50 días | |
+| **☔ Precipitaciones** | **Acumulado total** | **1681.3 mm** | |
+| | Días de lluvia (≥0,2 mm) | 175 días | |
+| | Días de lluvia (≥1 mm) | 127 días | |
+| | Días de lluvia (≥10 mm) | 51 días | |
 | | Días de lluvia (≥30 mm) | 9 días | |
 | | Máxima diaria | 83.8 mm | 2026-10-07 |
 | | Mes más lluvioso | Marzo | 302.0 mm |
@@ -81,4 +81,4 @@ El año 2026 en la estación meteorológica automática de Barrio de Arriba (Rio
 | **Agosto** | 20.8 | 33.3 | 11.6 | 56.3 | 34.9 |
 | **Septiembre** | 18.7 | 36.2 | 9.4 | 81.7 | 48.0 |
 | **Octubre** | 15.1 | 28.3 | 4.0 | 224.5 | 38.5 |
-| **Noviembre** | 13.3 | 24.3 | 3.1 | 106.1 | 71.6 |
+| **Noviembre** | 13.1 | 24.3 | 3.1 | 157.3 | 71.6 |
